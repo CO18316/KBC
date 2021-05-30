@@ -3,7 +3,7 @@ void question1();
 void main()
 {
 
- printf("\n\n\n\n\n\t\t\tWELCOME TO KAUN BANEGA CROREPATI\n\n\n");
+ printf("\n\n\n\n\n\t\t\tWELCOME TO KAUN BANEGA MODI\n\n\n");
  question1();
 }
 char a,b,c,d,A,B,C,D,ans;
